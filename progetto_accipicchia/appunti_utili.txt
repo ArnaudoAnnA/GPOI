@@ -1,0 +1,23 @@
+prendere da js il valore di una variabile PHP:
+var [nome] = "<?php echo $[nome_variabile] ?>";
+
+p.s. se voglio prendere un vettore devo usare un ciclo for
+
+----------------------------------------------------------------------------
+funzioni PHP:
+
+function [nome] ($param1, $param2, ...)
+{
+	(...)
+	return ...;
+}
+
+---------------------------------------------------------------------------
+ciclo foreach PHP:
+
+foreach($[array] as $[valore])
+{
+	....	
+}
+
+---------------------------------------------------------------------------
